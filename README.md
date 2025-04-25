@@ -33,7 +33,7 @@ cd ./pyovpn/lic/
 mv uprop.pyc uprop2.pyc
 ```
 
-### Create file uprop.pyc
+### Create file uprop.py
 ```
 from pyovpn.lic import uprop2
 old_figure = None
